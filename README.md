@@ -7,3 +7,5 @@
 <p align='center'>
 <img src="Portada.png" alt="Portada genial del repositorio" width=500/>
 </p>
+
+En proceso! 🔜
