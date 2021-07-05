@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/last-commit/vilcagamarracf/ML_para_entusiastas?style=flat-square" alt="GitHub last commit"/>
 </p>
 <p align='center'>
-<img src="Portada.png" alt="Portada genial del repositorio" width=500/>
+<img src="Book Cover - IA for Agriculture.png" alt="Portada genial del repositorio" width=500/>
 </p>
 
 En proceso! 🔜
